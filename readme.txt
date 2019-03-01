@@ -18,3 +18,6 @@ libmalloc-bf.so
 libmalloc-ff.so
 libmalloc-nf.so
 libmalloc-wf.so
+
+
+*the given compiling line does not work for windows and mac due to some restrictions
